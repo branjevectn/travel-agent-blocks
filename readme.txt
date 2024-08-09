@@ -1,4 +1,4 @@
-﻿=== Travel Agent Blocks ===
+﻿== Travel Agent Blocks ==
 
 Contributors: pewilliams
 Requires at least: 6.1
