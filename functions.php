@@ -1,6 +1,6 @@
 <?php
 /**
- * Travel Agent Blocks functions and definitions
+ * Travel Agent  Blocks functions and definitions
  *
  * @package Travel Agent Blocks
  */
