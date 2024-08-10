@@ -1,4 +1,4 @@
-<?php hddcadfvdddgs
+<?php sty
 /**
  * Title: Page Not Found
  * Slug: travel-agent-blocks/not-found
