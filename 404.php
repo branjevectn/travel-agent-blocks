@@ -1,4 +1,4 @@
-<?php fhu
+<?php fhurs
 /**
  * Title: Page Not Found
  * Slug: travel-agent-blocks/not-found
