@@ -1,4 +1,4 @@
-<?php qqqsfwrtfftgyfgddgfd
+<?php fgg
 /** b
  * Travel Agent Blocks: Block Patterns
  *
