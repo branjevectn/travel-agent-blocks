@@ -6,6 +6,6 @@ fn main() {
     a = &b;
     println!("{}",b);
   }  
-// rdgdsxrghhcghvf
+// rdgdsxrdfhghhcghvf
   println!("{}",a);
 }
