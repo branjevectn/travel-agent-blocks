@@ -6,6 +6,6 @@ fn main() {
     a = &b;
     println!("{}",b);
   }  
-// cgj_egbg
+// cgj_egbg_egbss
   println!("{}",a);
 }
