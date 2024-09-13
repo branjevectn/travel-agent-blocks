@@ -1,5 +1,5 @@
 fn main() {
-// ggxffgfghgfdfgffgvxawghffgdcfvghc
+// ggxffggcbbfghgfdfgffgvxawghffgdcfvghc
   
   let a: &i32;
   {
