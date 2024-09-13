@@ -1,4 +1,6 @@
 fn main() {
+// ccbnccv
+  
   let a: &i32;
   {
     // b lifetime is not same as a
